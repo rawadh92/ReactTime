@@ -1,6 +1,6 @@
 import time,random
 
-print("quand l'ecran passe au vert cliquez sur entrer")
+print("Quand vous voyez le'GO' cliquez sur entrer")
 time.sleep(1)
 print ('prêt ?')
 time.sleep(1)
